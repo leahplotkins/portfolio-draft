@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+font-family:sans-serif;
+font-size: 100%;
+margin: 0 auto;
+width: 900px;
+}
+
+header {
+    background-color: #E6E6E6;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-top: 5px;
+}
+
+nav {
+    background-color: #D9853B;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    padding-top: 10px;
+}
+
+
+li {
+list-style-type: none}
+
+.nav-links:link {
+    color: #FFF;
+    text-decoration:none;
+    
+}
+
+.nav-links:visited {
+    color: #0080FF;
+    text-decoration:none;
+}
+
+.nav-links:hover {
+    color: lightblue;
+}
+
+main {
+    background-color: #ECECEA;
+    padding-bottom: 20px;}
+
+section {}
+
+footer {
+    text-align: center;
+    }
+
+h1 {
+background-color: #558C89;
+    color: #FFF;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-size: 2.1875em;
+    padding: 25px 25px 25px 15px;}
+
+h2 {
+background-color:#558C89;
+    color: #FFF;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-size: 1.75em;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    padding-top: 20px;}
+
+h3 {
+background-color:#74AFAD;
+    color: #FFF;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-size: 1.5em;
+    font-style: oblique;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-top: 15px;}
+
+p {}
