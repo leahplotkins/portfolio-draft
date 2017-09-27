@@ -1,0 +1,27 @@
+ <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title><a href="index.html">Leah Plotkins Portfolio Directory</a></title>
+	<link rel="stylesheet" href="css/styles.css" media="all">
+<link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet"> 
+    </head>
+
+<body>
+   <header>
+       <h1>Leah Plotkins Portfolio Directory</h1>
+    </header> 
+    <main>
+        <nav>
+        <ul>
+            <li><a class="nav-links" href="plotk>home</a></li>
+            <li><a class="nav-links" href="work.html">work</a></li>
+            <li><a class="nav-links" href="about.html">about</a></li>
+            <li><a class="nav-links" href="process.html">process</a></li>
+        </ul>
+        </nav>
+       </main>     
+    </nav>
+    <footer> <p><small>Leah Plotkins &copy; 2017</small></p></footer>
+    </body>
+</html>

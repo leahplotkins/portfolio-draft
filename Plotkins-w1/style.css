@@ -1,0 +1,55 @@
+body {
+font-family: Helvetica, Segoe UI, Tahoma, sans-serif;
+font-size: 100%;
+color:aliceblue;
+
+}
+
+article {
+background-color: aliceblue;
+color: #006666;
+padding: .5cm 2cm 1cm 2cm;
+}
+
+header{
+background-color:  aliceblue;
+
+}
+
+nav
+
+ul {
+list-style: none; /* Remove list bullets */
+padding: 0;
+margin: 0;
+font-size: 1em;
+color:azure;
+}
+ 
+
+li {
+color:azure;
+}
+
+nav-links: link {
+
+}
+
+
+nav-links: visited{
+
+}
+
+h1{
+font-family: Helvetica, Segoe UI, Tahoma, sans-serif;
+font-size: 2.75em;
+}
+
+h2 {
+font-family: Helvetica, Segoe UI, Tahoma, sans-serif;
+font-size: 1.75em;
+}
+
+p {
+font-size: .9375em;
+}

@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+font-family: 'Cutive Mono', monospace;
+font-size: 100%;
+margin: 0 auto;
+width: 2000px;
+}
+
+header {
+    background-color: #e61e25;
+    padding-bottom: 0px;
+    padding-left: 40px;
+    padding-top: 5px;
+    width: 600px
+}
+
+nav {
+    background-color: #e61e25;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+
+li {
+    list-style-type: none;
+    display: inline;
+    text-align: center;
+    padding-left: 35px;
+    padding-right: 35px;
+    background-color: #e61e25;
+}
+
+.nav-links:link {
+    color: #FFF;
+    text-decoration:none;
+    
+}
+
+.nav-links:visited {
+    color: #0080FF;
+    text-decoration:none;
+}
+
+.nav-links:hover {
+    color: lightblue;
+}
+
+main {
+    background-color: #e61e25;
+    padding-bottom: 20px;
+    align-content: center;}
+body {
+    margin: 0 auto;
+    max-width: 900px;
+    min-width: 600px; 
+  
+}
+
+.gallery figure {
+    color: blue;
+    float: left;
+    height: 50%;
+    margin: 0px;
+    text-align: center;
+    width: 50%;
+}
+
+.gallery2 figure {
+    color: #e61e25;
+    height: 25%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+    width: 300px;
+    float: left;
+}
+
+
+figure img {
+    height: auto;
+    margin: 0px;
+    width: 65%;
+    padding-left: 0px;
+    }
+
+
+section {
+}
+
+footer {
+    text-align: center;
+    background-color: #e61e25;
+    clear: both;
+    min-height: 50px;  
+    color:white;
+}
+
+h1 {
+    background-color: #e61e25;
+    color: #FFF;
+    font-family: font-family: 'Cutive Mono', monospace;;
+    font-size: 2.1875em;
+    text-align: left;
+    padding-top: 70px;
+    padding-bottom: 10px;
+    width:300px
+    float:left}
+
+h2 {
+    background-color:#e61e25;
+    color: #FFF;
+font-family: 'Cutive Mono', monospace;
+    font-size: 1.75em;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    padding-top: 20px;}
+
+h3 {
+    background-color:#e61e25;
+    color: #FFF;
+font-family: 'Cutive Mono', monospace;
+    font-size: 1.5em;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-top: 15px;}
+
+p {}
