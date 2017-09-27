@@ -4,29 +4,36 @@
 }
 
 body {
-font-family:sans-serif;
+font-family: 'Cutive Mono', monospace;
 font-size: 100%;
 margin: 0 auto;
-width: 900px;
+width: 2000px;
 }
 
 header {
-    background-color: #E6E6E6;
+    background-color: #e61e25;
     padding-bottom: 0px;
-    padding-left: 0px;
+    padding-left: 40px;
     padding-top: 5px;
+    width: 600px
 }
 
 nav {
-    background-color: #D9853B;
+    background-color: #e61e25;
     padding-bottom: 10px;
     padding-left: 35px;
     padding-top: 10px;
+    text-align: center;
 }
 
 
 li {
-list-style-type: none}
+    list-style-type: none;
+    display: inline;
+    text-align: center;
+    padding-left: 35px;
+    padding-right: 35px;
+}
 
 .nav-links:link {
     color: #FFF;
@@ -44,37 +51,79 @@ list-style-type: none}
 }
 
 main {
-    background-color: #ECECEA;
-    padding-bottom: 20px;}
+    background-color: #ff0000;
+    padding-bottom: 20px;
+    align-content: center;}
+body {
+    margin: 0 auto;
+    max-width: 900px;
+    min-width: 600px; 
+  
+}
 
-section {}
+.gallery figure {
+    color: blue;
+    float: left;
+    height: 50%;
+    margin: 0px;
+    text-align: center;
+    width: 50%;
+}
+
+.gallery2 figure {
+    color: #ff0000;
+    height: 25%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+    width: 300px;
+    float: left;
+}
+
+
+figure img {
+    height: auto;
+    margin: 0px;
+    width: 65%;
+    padding-left: 0px;
+    }
+
+
+section {
+}
 
 footer {
     text-align: center;
-    }
+    background-color: #ff0000;
+    clear: both;
+    min-height: 50px;    
+}
 
 h1 {
-background-color: #558C89;
+    background-color: #ff0000;
     color: #FFF;
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-family: font-family: 'Cutive Mono', monospace;;
     font-size: 2.1875em;
-    padding: 25px 25px 25px 15px;}
+    text-align: left;
+    padding-top: 70px;
+    padding-bottom: 10px;
+    width:300px
+    float:left}
 
 h2 {
-background-color:#558C89;
+    background-color:#ff0000;
     color: #FFF;
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+font-family: 'Cutive Mono', monospace;
     font-size: 1.75em;
     padding-bottom: 20px;
     padding-left: 25px;
     padding-top: 20px;}
 
 h3 {
-background-color:#74AFAD;
+    background-color:#e61e25;
     color: #FFF;
-    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+font-family: 'Cutive Mono', monospace;
     font-size: 1.5em;
-    font-style: oblique;
     padding-bottom: 15px;
     padding-left: 40px;
     padding-top: 15px;}
