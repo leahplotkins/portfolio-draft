@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+font-family: 'Cutive Mono', monospace;
+font-size: 100%;
+margin: 0 auto;
+width: 2000px;
+color: #e61e25;
+}
+
+header {
+    background-color: white;
+    padding-bottom: 0px;
+    padding-left: 40px;
+    padding-top: 5px;
+    width: 600px
+}
+
+nav {
+    background-color: white;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+
+li {
+    list-style-type: none;
+    text-align: center;
+    padding-left: 35px;
+    padding-right: 35px;
+    background-color: white;
+}
+
+.nav-links:link {
+    color: #e61e25;
+    text-decoration:none;
+    
+}
+
+.nav-links:visited {
+    color: #0080FF;
+    text-decoration:none;
+}
+
+.nav-links:hover {
+    color: coral;
+}
+
+
+footer {
+    text-align: center;
+    background-color: #e61e25;
+    clear: both;
+    min-height: 50px;  
+    color:#e61e25;
+}
+
+h1 {
+    background-color: white;
+    color: #e61e25;
+    font-family: font-family: 'Cutive Mono', monospace;;
+    font-size: 2.1875em;
+    text-align: left;
+    padding-top: 70px;
+    padding-bottom: 10px;
+    width:300px
+    float:left}
+
+h2 {
+    background-color:white;
+    color: #e61e25;
+font-family: 'Cutive Mono', monospace;
+    font-size: 1.75em;
+    padding-bottom: 20px;
+    padding-left: 25px;
+    padding-top: 20px;}
+
+h3 {
+    background-color:white;
+    color: #e61e25;
+font-family: 'Cutive Mono', monospace;
+    font-size: 1.5em;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-top: 15px;}
+
+p {}
