@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Cutive Mono', monospace;
+    font-size: 100%;
+    margin: auto;
+    width: 900px;
+    background-color: floralwhite;
+}
+
+nav{
+width:815px;
+}
+
+.topnav {
+    background-color: #e61e25;
+    overflow: hidden;
+    
+}
+
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    padding-top: 31px;
+    padding-bottom: 31px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: orangered;
+    color: floralwhite;
+}
+
+/* Add a color to the active/current link */
+.topnav a:active {
+    background-color: floralwhite;
+    color: #e61e25;
+}
+.circle {
+    height:85px;
+    width: 85px;
+    float: left;
+}
+
+.head{
+    width:900px;
+}
+
+h1{
+padding-top: 70px;
+width: 200px;
+height: 200px;
+font-size: 20px;
+color: #e61e25;
+float: left;}
+
+h3{
+width: 700px;
+padding-top: 50px;
+font-size:17px;
+font-weight: 100;
+float: left;
+color: #e61e25;
+padding-bottom: 
+}
+
+.gallery{
+    height: 1000px;
+    width: 900px;
+    float:left;
+    padding-top:60px;
+}
+
+.view1{
+padding-right: 300px;
+
+}
+
+.view2{
+padding-left: 550px;
+
+}
+
+.view3{
+padding-top: 50px;}
+
+.second-2{
+padding-left: 300px; 
+padding-top: 50px
+}
+.back{
+clear: all;
+text-align: center;
+padding-bottom: 20px;
+padding-top: 40px;
+text-decoration: none;
+color:#e61e25;
+}
+
+
+footer {
+    padding-top: 800px;
+    text-align: center;
+    background-color: floralwhite;
+    min-height: 50px;  
+    color:#e61e25;
+    clear: left; 
+}

@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Cutive Mono', monospace;
+    font-size: 100%;
+    margin: auto;
+    width: 900px;
+    background-color: floralwhite;
+}
+
+nav{
+width:900px;
+}
+
+.topnav {
+    background-color: #e61e25;
+    overflow: hidden;
+    
+}
+
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: orangered;
+    color: floralwhite;
+}
+
+/* Add a color to the active/current link */
+.topnav a:active {
+    background-color: floralwhite;
+    color: #e61e25;
+}
+
+
+main {
+    background-color:
+    floralwhite;
+    padding-bottom: 20px;
+    align-content: center;
+    width: 900px;
+    float: left;
+    
+      }
+.eye  {
+    background-color: #F26667;
+    width: 470px;
+    height: 300px;
+}
+
+.brain  {
+    background-color: #CCCC31;
+    width: 470px;
+    height: 300px;
+}
+
+.draw  {
+    background-color: #F04D23;
+    width: 470px;
+    height: 300px;
+}
+
+.create {
+    
+background-color:#61CAE3 ;
+width: 470px;
+height: 300px
+}
+
+.broken {
+    
+background-color:#EF3C39 ;
+width: 470px;
+height: 300px
+}
+
+.hammer {
+    
+background-color:#F7D40B ;
+width: 470px;
+height: 300px
+}
+
+.box {
+    
+background-color:#69C183 ;
+width: 470px;
+height: 300px
+}
+
+figure img {
+    height: auto;
+    position: relative; 
+    float: left;
+    overflow: hidden;
+}
+
+
+.thumbnail-1 {
+    float: left;
+    margin-left: 7em;
+    margin-bottom: 7em;
+    margin-top:60em;
+}
+
+.thumbnail-2 {
+    float: right;
+    margin-right: 7em;
+
+}
+
+.circle {
+    height:85px;
+    width: 85px;
+    float: left;
+    
+}
+footer {
+    text-align: center;
+    background-color: floralwhite;
+    clear: both;
+    min-height: 50px;  
+    color:#e61e25;
+}
+
+h5 {
+    
+    color: #FFF;
+    font-family: font-family: 'Cutive Mono', monospace;
+    font-size: 25px;
+    text-align: center;
+    width:470px;
+    padding-left: 30px;
+    float: left;
+    padding-top: 100px;
+    height: 300px;
+    font-weight: lighter;
+
+    
+}
+
