@@ -17,8 +17,9 @@ header {
     padding-left: 40px;
     padding-top: 30px;
     width: 600px;
-    border-bottom-color: orangered;
+    text-align: center;
 }
+
 
 nav {
     background-color: white;
@@ -50,7 +51,7 @@ li {
 }
 
 .nav-links:hover {
-    color: coral;
+    color: yellow;
 }
 
 
